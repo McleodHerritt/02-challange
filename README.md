@@ -4,7 +4,7 @@ This is a webpage created for "course", challenge 02. In this challenge, I updat
 
 # Screenshot
 
-![ScreenShot](images\challenge-02-fullpage-screenshot.png)
+![ScreenShot](./images/challenge-02-fullpage-screenshot.png)
 
 # Link to Deployed webpage
 
