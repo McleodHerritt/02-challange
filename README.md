@@ -7,3 +7,5 @@ This is a webpage created for "course", challenge 02. In this challenge, I updat
 ![ScreenShot](./assets/challenge-02-fullpage-screenshot.png)
 
 # Link to Deployed webpage
+
+[Link to deployed webpage](https://mcleodherritt.github.io/02-challenge/)
