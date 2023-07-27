@@ -8,4 +8,4 @@ This is a webpage created for "course", challenge 02. In this challenge, I updat
 
 # Link to Deployed webpage
 
-[Link to deployed webpage](https://mcleodherritt.github.io/02-challenge/)
+[Link to deployed webpage](https://mcleodherritt.github.io/horiseon-client/)
